@@ -114,12 +114,9 @@
 		5B9D1B951D08603800522058 /* BillOrSteve */ = {
 			isa = PBXGroup;
 			children = (
-				5B9D1B961D08603800522058 /* AppDelegate.swift */,
+				A78940E51D7DAC9400AB428F /* Supporting FIles */,
 				5B9D1B981D08603800522058 /* ViewController.swift */,
 				5B9D1B9A1D08603800522058 /* Main.storyboard */,
-				5B9D1B9D1D08603800522058 /* Assets.xcassets */,
-				5B9D1B9F1D08603800522058 /* LaunchScreen.storyboard */,
-				5B9D1BA21D08603800522058 /* Info.plist */,
 			);
 			path = BillOrSteve;
 			sourceTree = "<group>";
@@ -163,6 +160,17 @@
 				EC71DEE53190580DFB32CE51 /* Pods_BillOrSteveUITests.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A78940E51D7DAC9400AB428F /* Supporting FIles */ = {
+			isa = PBXGroup;
+			children = (
+				5B9D1B961D08603800522058 /* AppDelegate.swift */,
+				5B9D1B9D1D08603800522058 /* Assets.xcassets */,
+				5B9D1B9F1D08603800522058 /* LaunchScreen.storyboard */,
+				5B9D1BA21D08603800522058 /* Info.plist */,
+			);
+			name = "Supporting FIles";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
